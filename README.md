@@ -1,0 +1,1 @@
+second project from book: Django by example from Packt
