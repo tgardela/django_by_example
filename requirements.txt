@@ -1,3 +1,7 @@
 Django==1.8.6
 Pillow==2.9.0
 python-social-auth==0.2.12
+
+
+
+http://127.0.0.1:8000/images/create/?title=%20car&url=https://docs.gimp.org/en/images/tutorials/quickie-jpeg-example.jpg
