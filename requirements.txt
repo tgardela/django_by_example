@@ -1,5 +1,5 @@
 Django==1.8.6
-Pillow==2.9.0
+Pillow==3.3.2
 python-social-auth==0.2.12
 
 
